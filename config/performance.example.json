@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "reportRoot": "%ProgramData%\\LeanWindowsPerformance\\Reports",
+  "cleanup": {
+    "temporaryFilesOlderThanDays": 7,
+    "reportsOlderThanDays": 45,
+    "clearCrashDumps": true,
+    "clearDeliveryOptimizationCacheWeekly": true,
+    "emptyRecycleBin": false
+  },
+  "power": {
+    "preferredPlan": "Current",
+    "disableHibernate": false,
+    "disableFastStartup": false
+  },
+  "optionalDisableServices": [],
+  "optionalDisableScheduledTasks": [],
+  "protectedNamePatterns": [
+    "Dell",
+    "Intel",
+    "NVIDIA",
+    "Microsoft Store",
+    "Windows Update",
+    "Defender",
+    "Security",
+    "Audio",
+    "Bluetooth",
+    "Network",
+    "Wi-Fi",
+    "VPN",
+    "Accessibility",
+    "Xbox",
+    "Gaming",
+    "Steam",
+    "Riot",
+    "EasyAntiCheat",
+    "Vanguard",
+    "Qobuz"
+  ]
+}
+
